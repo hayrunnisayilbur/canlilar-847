@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\bin\Debug\nesli tukenmekte.exe.config
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\bin\Debug\nesli tukenmekte.exe
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\bin\Debug\nesli tukenmekte.pdb
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli tukenmekte.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli tukenmekte.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli_tukenmekte.Form1.resources
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli_tukenmekte.Properties.Resources.resources
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli tukenmekte.csproj.GenerateResource.cache
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli tukenmekte.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli tukenmekte.exe
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli tukenmekte.pdb
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli_tukenmekte.Ekle.resources
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli_tukenmekte.Listele.resources
+C:\Users\User\source\repos\nesli tukenmekte\nesli tukenmekte\obj\Debug\nesli tukenmekte.csproj.CopyComplete
